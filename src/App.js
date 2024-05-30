@@ -2,7 +2,7 @@ import "./App.css";
 import { useState, useEffect } from "react";
 import { Button, TextField, Card, CardContent, Typography } from "@mui/material";
 import { motion } from "framer-motion";
-import { WiDaySunny, WiCloud, WiRain, WiSnow, WiThunderstorm, WiFog } from "weather-icons-react";
+import { WiDaySunny, WiCloud, WiRain, WiSnow, WiThunderstorm, WiFog } from "weather-icons-react"
 
 const api = {
   key: "3ce08e04bccf3450c193699c2fd4d173",
