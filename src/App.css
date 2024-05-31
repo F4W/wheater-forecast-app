@@ -1,7 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Mate:ital@0;1&family=Roboto+Slab:wght@100..900&display=swap');
 
 body {
   margin: 0;
@@ -27,6 +24,11 @@ body {
 header {
   margin-bottom: 20px;
 }
+
+.title-aja {
+  font-family: 'Luckiest Guy', cursive;
+}
+
 
 input, button {
   margin: 5px;
